@@ -1,4 +1,4 @@
-[![MasterHead](Welcome.png)]
+![MasterHead](Welcome.png)
 <h1 align="center">Hi 👋, I'm Nipun Shrivats</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
