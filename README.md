@@ -1,4 +1,4 @@
-[![MasterHead](https://bosmediagroup.com/wp-content/uploads/2021/05/You-Miss-100-of-the-shots-you-dont-take-BOS-Media-Group.jpeg)](https://rishavchanda.io)
+[![MasterHead]()](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nipun Shrivats</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
@@ -6,7 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipunshrivats" alt="nipunshrivats" /></a> </p>
 
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhzbGdzM3NuM2d4bmgzajl4dWU2am85aW4zemUweThyd29id3FxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6R2mLi910HL4VXFwOG/giphy.gif">
+
 <p align="left"> <a href="https://twitter.com/rusty_code08" target="blank"><img src="https://img.shields.io/twitter/follow/rusty_code08?logo=twitter&style=for-the-badge" alt="rusty_code08" /></a> </p>
+
 
 - 🌱 I’m currently learning **NextJs, ReactNative**
 
