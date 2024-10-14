@@ -1,4 +1,4 @@
-[![MasterHead]()](https://rishavchanda.io)
+[![MasterHead](welcome.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nipun Shrivats</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
