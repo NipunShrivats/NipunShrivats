@@ -1,4 +1,4 @@
-[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMzcDc0d2VzenM1bm50ZjhoMW1nbGpuZG0zZTlsbm5zanN5MDVzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BoAaI3YDNIbX00BMmW/giphy.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMzcDc0d2VzenM1bm50ZjhoMW1nbGpuZG0zZTlsbm5zanN5MDVzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BoAaI3YDNIbX00BMmW/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Nipun Shrivats</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
