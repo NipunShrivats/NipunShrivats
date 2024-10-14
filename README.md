@@ -1,4 +1,4 @@
-[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMzcDc0d2VzenM1bm50ZjhoMW1nbGpuZG0zZTlsbm5zanN5MDVzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BoAaI3YDNIbX00BMmW/giphy.gif)]
+[![MasterHead](https://bosmediagroup.com/wp-content/uploads/2021/05/You-Miss-100-of-the-shots-you-dont-take-BOS-Media-Group.jpeg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nipun Shrivats</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
