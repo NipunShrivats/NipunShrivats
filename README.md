@@ -1,5 +1,6 @@
-[![MasterHead](
-https://giphy.com/embed/BoAaI3YDNIbX00BMmW)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://giphy.com/embed/BoAaI3YDNIbX00BMmW))](https://rishavchanda.io)
+
+<iframe src="https://giphy.com/embed/BoAaI3YDNIbX00BMmW" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/car-the-office-michael-scott-BoAaI3YDNIbX00BMmW">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Nipun Shrivats</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
